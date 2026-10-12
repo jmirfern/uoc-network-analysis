@@ -1,0 +1,146 @@
+{
+  "help": "https://data.renfe.com/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "Creative Commons Attribution 4.0",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 5,
+    "id": "34be0058-3a3d-4ee1-89cd-512e1226f53f",
+    "metadata_created": "2019-05-21T07:56:34.006607",
+    "metadata_modified": "2026-10-12T03:30:06.790606",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "archiver": {
+      "status": "Download error",
+      "is_broken": true,
+      "reason": "Connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)",
+      "status_id": 12
+    },
+    "creator_user_id": "7790614f-eb19-4d4b-aff4-31bdd174e2f1",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "package_id": "34be0058-3a3d-4ee1-89cd-512e1226f53f",
+        "datastore_active": false,
+        "id": "25d6b043-9e47-4f99-bd91-edd51d782450",
+        "size": 956414,
+        "state": "active",
+        "archiver": {
+          "is_broken_printable": "Broken",
+          "updated": "2026-06-01T06:00:53.669306",
+          "cache_filepath": null,
+          "last_success": null,
+          "size": 0,
+          "is_broken": true,
+          "failure_count": 300,
+          "etag": null,
+          "status": "Download error",
+          "url_redirected_to": null,
+          "hash": null,
+          "status_id": 12,
+          "reason": "Connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)",
+          "last_modified": null,
+          "resource_timestamp": "2026-06-01T03:30:18.885890",
+          "mimetype": null,
+          "cache_url": null,
+          "created": "2025-12-17T09:50:55.968592",
+          "first_failure": "2025-12-17T09:50:55.956620"
+        },
+        "hash": "",
+        "description": "Horario de los servicios de viajeros prestados por los trenes de Alta Velocidad, Larga Distancia y Media Distancia. No se incluyen los Horarios de Cercanías ni FEVE. Se pueden consultar en http://renfe.com",
+        "format": "GTFS",
+        "last_modified": "2026-10-11T23:10:59",
+        "url_type": "",
+        "mimetype": "application/zip",
+        "cache_url": null,
+        "name": "Horarios de alta velocidad, larga distancia y media distancia",
+        "created": "2018-11-29T16:57:29.453522",
+        "url": "https://ssl.renfe.com/gtransit/Fichero_AV_LD/google_transit.zip",
+        "qa": {
+          "updated": "2026-10-12T06:00:41.909687",
+          "openness_score": 0,
+          "archival_timestamp": "2026-06-01T06:00:53.669306",
+          "format": "ZIP",
+          "created": "2020-05-04T09:01:01.469929",
+          "resource_timestamp": null,
+          "openness_score_reason": "File could not be downloaded. Reason: Download error. Error details: Connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590). Attempted on 01/06/2026. Tried 300 times since 17/12/2025. This URL has not worked in the history of this tool."
+        },
+        "mimetype_inner": null,
+        "position": 0,
+        "revision_id": "cb26c9e2-3645-4811-90d2-0796ac8ba920",
+        "resource_type": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "alta velocidad",
+        "id": "3196a501-f95a-47c7-b4fb-2942b40fc8be",
+        "name": "alta velocidad"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "horarios",
+        "id": "1261d543-463b-4940-a125-dc251b026c7f",
+        "name": "horarios"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "larga distancia",
+        "id": "8590d790-4997-495b-ba99-71e11670f262",
+        "name": "larga distancia"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "media distancia",
+        "id": "71a4fada-e15c-470d-b765-ec8eac1a77da",
+        "name": "media distancia"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "viajeros",
+        "id": "0a71bd0c-f36f-4900-91ce-008261f0e05a",
+        "name": "viajeros"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "Transporte",
+        "description": "",
+        "image_display_url": "",
+        "title": "Transporte",
+        "id": "81ad44b1-7b17-477c-be23-40021df8e306",
+        "name": "transporte"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": null,
+    "name": "horarios-de-alta-velocidad-larga-distancia-y-media-distancia",
+    "isopen": true,
+    "url": "",
+    "notes": "Horario de los servicios de viajeros prestados por los trenes de Alta Velocidad, Larga Distancia y Media Distancia. No se incluyen los Horarios de Cercanías ni FEVE. Se pueden consultar en http://renfe.com\r\n",
+    "owner_org": null,
+    "qa": {
+      "openness_score_reason": "File could not be downloaded. Reason: Download error. Error details: Connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590). Attempted on 01/06/2026. Tried 300 times since 17/12/2025. This URL has not worked in the history of this tool.",
+      "updated": "2026-10-12T06:00:41.909687",
+      "openness_score": 0
+    },
+    "extras": [],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "title": "Horarios de alta velocidad, larga distancia y media distancia",
+    "revision_id": "a14a88de-e92d-4022-95d5-ce9efa232617"
+  }
+}

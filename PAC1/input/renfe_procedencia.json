@@ -1,0 +1,13 @@
+{
+  "data_descarrega": "2026-10-12",
+  "dataset": "https://data.renfe.com/dataset/horarios-de-alta-velocidad-larga-distancia-y-media-distancia",
+  "fitxer": "https://ssl.renfe.com/gtransit/Fichero_AV_LD/google_transit.zip",
+  "llicencia": "Creative Commons Attribution 4.0",
+  "sha256_zip": "120d61c2815bc9150a1f50e8d822805856e0b0aee80c8dbd8411e5553d6e004c",
+  "documents": [
+    "renfe_dataset.html",
+    "gtfs_schedule_reference.html",
+    "renfe_metadades_ckan.json"
+  ],
+  "mapa_fons": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson"
+}
